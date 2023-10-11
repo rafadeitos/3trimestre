@@ -22,7 +22,7 @@ img{
 .logo_dcabecalho{
     width: 170px;
     margin-left:50px;
-    margin-top: 30px;
+    margin-top: 50px;
     height: 120px;
 
 }
@@ -31,7 +31,7 @@ img{
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 370px;
+    margin-left: 385px;
 }
 .item_lista_cabecalho{
     color: brown;
