@@ -27,11 +27,11 @@ img{
 
 }
 .cabecalho{
-    background-color: cyan;
+    background-color: rgb(234, 235, 235);
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 950px;
+    margin-left: 250px;
 }
 .item_lista_cabecalho{
     color: brown;
