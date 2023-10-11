@@ -31,7 +31,7 @@ img{
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 300px;
+    margin-left: 350px;
 }
 .item_lista_cabecalho{
     color: brown;
